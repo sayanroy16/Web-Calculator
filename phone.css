@@ -1,3 +1,7 @@
+.tagline{
+    text-align: center;
+    font-size: 28px;
+}
 .sayan{
     text-align: center;
 
@@ -11,4 +15,10 @@
     width: 80px;
     height: 30px;
     border-radius: 0.5rem;
+}
+.first{
+    font-size: 10px;
+}
+h1{
+    font-size: 28px;
 }
