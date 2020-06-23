@@ -1,0 +1,76 @@
+
+.tagline{
+    text-align: center;
+}
+#tagline{
+    color: black;
+}
+.current{
+    background-color: rgb(46, 44, 44);
+}
+h1{
+    color: white;
+}
+hr{
+    background-color:rgba(28, 61, 209, 0.931);
+}
+#calcu{
+    color:rgba(28, 61, 209, 0.931); ;
+}
+
+.sayan{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 2rem;
+    padding: 34px;
+    background-color:rgb(46, 44, 44);;
+
+}
+#screen{
+    width: 535px;
+    height: 100px;
+    border: 2px solid rgba(28, 61, 209, 0.931);
+    border-radius: 1rem;
+}
+.btn{
+    width: 129px;
+    height: 61px;
+    border-radius: 1rem;
+    border: 2px solid rgba(28, 61, 209, 0.931);
+    background-color: rgb(46, 44, 44);
+}
+
+body{
+    background-color: white;
+}
+.card-title{
+    color: white;
+}
+.card-text{
+    color: white;
+}
+#addbtn{
+    border-radius: 3px;
+    background-color: rgba(59, 58, 58, 0.52);
+}
+#card{
+    align-items: center;
+}
+#image{
+    width: 50px;
+    border-radius: 30rem;
+}
+p{
+    color: white;
+}
+.card-body{
+    text-align: center;
+}
+#search{
+    border-color: rgba(248, 0, 0, 0.685);
+
+}
+.last{
+    background-color:rgb(46, 44, 44); 
+    color: rgb(46, 44, 44); 
+}
